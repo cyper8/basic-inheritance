@@ -1,0 +1,13 @@
+{
+  "name": "basic-inheritance",
+  "version": "0.0.1",
+  "description": "Inheritance helper function as global Function.extends method",
+  "main": "basic-inheritance.js",
+  "keywords": [
+    "javascript",
+    "inheritance",
+    "extend"
+  ],
+  "author": "unknown",
+  "license": "ISC"
+}
